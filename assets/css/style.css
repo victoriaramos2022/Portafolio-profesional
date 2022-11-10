@@ -1,0 +1,52 @@
+
+body{
+   background-color: #26282B;
+   color: white;
+ 
+}
+.navbar{
+    background-color: #353941 ;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+a{
+    color: white;
+}
+.h2{
+    padding-top: 5%;
+}
+.acerca{
+    padding-top: 2%;
+}
+.img-responsive{
+    padding-top: 7%;
+    width: 90%;
+    height: 97%;
+}
+.formacion{
+    padding-top: 17px;
+}
+
+.experiencia{
+    padding-top: 21px;
+}
+
+.img-fluid{
+    padding: 20px 20px 20px 20px
+}
+.card-img-top{
+    border-radius: 10px;
+    width: 90%;
+    height: 50%;
+    padding: 20px 20px 20px 20px;
+}
+
+#tarjeta{
+    padding-left: 10%;
+}
+
+footer{
+  
+    background-color: #353941 ;
+}
